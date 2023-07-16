@@ -1,0 +1,9 @@
+- id: removestar
+  name: removestar
+  description: "Run 'removestar' to remove wildcard Python imports"
+  entry: removestar
+  language: python
+  types: [python]
+  args: []
+  require_serial: true
+  additional_dependencies: []
