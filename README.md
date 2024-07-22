@@ -10,7 +10,8 @@ A [pre-commit](https://pre-commit.com/) hook for [removestar](https://github.com
 Distributed as a standalone repository to enable installing `removestar` via prebuilt wheels from
 [PyPI](https://pypi.org/project/removestar/).
 
-**Note:** A pre-commit hook has subsequently been natively integrated to [removestar](https://github.com/asmeurer/removestar) (see asmeurer/removestar#33). Please use that instead.
+>[!IMPORTANT]
+> A pre-commit hook has subsequently been natively integrated to [removestar](https://github.com/asmeurer/removestar) (see asmeurer/removestar#33). Please use that instead.
 
 ### Using removestar with [pre-commit](https://pre-commit.com)
 
